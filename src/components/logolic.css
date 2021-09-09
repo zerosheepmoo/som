@@ -1,0 +1,12 @@
+.logolic {
+  color: #616161;
+} /* Unvisited link  */
+.logolic:visited {
+  color: #616161;
+} /* Visited link    */
+.logolic:hover {
+  color: #616161;
+} /* Mouse over link */
+.logolic:active {
+  color: #616161;
+}
